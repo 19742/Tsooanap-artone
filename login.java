@@ -4,6 +4,11 @@ import java.util.regex.Pattern;
 
 public class login {
 
+        /*
+     * This class handles user registration, input validation,
+     * and login functionality.
+     */
+
     // Store the user's personal and login details
 private String firstName;
 private String surname;
