@@ -1,7 +1,5 @@
 # Tsooanap-artone
 
-# Tsooanapartone
-
 ## Project Overview
 
 This project is a Java-based registration and login system developed as part of a programming project.
